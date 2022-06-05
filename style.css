@@ -1,0 +1,13 @@
+.skip-item span {
+    font-weight: 600px;
+    color: rgb(128, 109, 0);
+}
+
+.skip-section {
+    width: 100%;
+    height: 500px;
+}
+
+.skip-parent {
+    display: flex;
+}
