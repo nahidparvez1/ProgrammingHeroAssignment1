@@ -1,3 +1,11 @@
+* {
+    margin: 0;
+}
+
+.container {
+    margin: 30px auto;
+    width: 90%;
+}
 .skip-item span {
     font-weight: 600px;
     color: rgb(128, 109, 0);
@@ -10,4 +18,67 @@
 
 .skip-parent {
     display: flex;
+}
+
+.about-parent {
+    display: flex;
+}
+
+.card-parent {
+    display: flex;
+}
+
+.card {
+    width: 250px;
+    height: 300px;
+    margin: 25px;
+    padding: 5px;
+}
+
+.card h3 {
+    margin-top: 100px;
+}
+
+.card-img {
+    height: 100px;
+}
+
+.card-img img {
+    width: 100%;
+}
+
+.counter-section {
+    width: 100%;
+    height: 150px;
+    box-shadow: 0px 0px 10px 0px;
+}
+
+.counter-parent {
+    display: flex;
+}
+
+.counter {
+    width: 30%;
+    height: 100px;
+    text-align: center;
+}
+
+.counter h1 {
+    margin: 50px 0px auto;
+}
+
+footer {
+    height: 150px;
+    background-color: black;
+    text-align: center;
+    margin-top: 30px;
+}
+
+footer h1 {
+    color: bisque;
+    margin: 30px auto;
+}
+
+footer p {
+    color: white;
 }
