@@ -30,7 +30,7 @@
 }
 
 .skip-item img {
-    width: 90%;
+    width: 80%;
     margin-left: 50px;
 }
 
@@ -82,7 +82,7 @@
 }
 
 .about-parent p {
-    margin: 50px 0px;
+    margin: 50px 0px 120px;
     font-size: 20px;
     color: grey;
 }
@@ -96,7 +96,6 @@
     background-color: tomato;
     border: none;
     border-radius: 36px;
-    margin: 30px;
 }
 
 .card-parent {
