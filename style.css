@@ -65,7 +65,7 @@
 
 .about-parent {
     display: flex;
-    background-image: url(img/7.png);
+    background-image: url("img/7.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
